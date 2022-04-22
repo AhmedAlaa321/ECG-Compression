@@ -1,4 +1,4 @@
-# ecgCompression
+# ECG-Compression
 
 ECG compression using discrete cosine transform (DCT).
 
